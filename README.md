@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hola 👋, soy Agustín
 
-<!--
-**agustinmachadodev/agustinmachadodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Autodidacta en desarrollo web 🌟 | HTML, CSS y JavaScript | Enfocado en proyectos frontend y pronto backend 🚀 | Aprendiendo día a día 📚
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **En aprendizaje:** Git, GitHub, Sass, React, Node.js
+- **Herramientas:** VSCode, Chrome DevTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 Actualmente
+- 💻 Profundizando JavaScript y fundamentos de programación
+- 🛠 Repasando y practicando proyectos de frontend
+- 🚀 Preparándome para iniciar proyectos Full Stack
+
+---
+
+## 📫 Contacto
+- ✉️ Email: agustinmachado.dev@gmail.com
+
+---
+
+> ✨ Constancia > perfección  
