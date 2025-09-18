@@ -1,6 +1,6 @@
 # Hola 👋, soy Agustín
 
-Autodidacta en desarrollo web 🌟 | HTML, CSS y JavaScript | Enfocado en proyectos frontend y pronto backend 🚀 | Aprendiendo día a día 📚
+Actualmente profundizando en JavaScript y construyendo proyectos frontend. Pronto empezaré con backend para avanzar hacia Full Stack 🚀
 
 ## 🛠️ Skills
 - **Frontend:** HTML, CSS, JavaScript
@@ -10,8 +10,8 @@ Autodidacta en desarrollo web 🌟 | HTML, CSS y JavaScript | Enfocado en proyec
 ---
 
 ## 🌱 Actualmente
-- 💻 Profundizando JavaScript y fundamentos de programación
-- 🛠 Repasando y practicando proyectos de frontend
+- 💻 Aprendiendo Sass para mejorar la organización y mantenimiento de CSS
+- 🛠 Experimentando con pequeños proyectos de frontend
 - 🚀 Preparándome para iniciar proyectos Full Stack
 
 ---
